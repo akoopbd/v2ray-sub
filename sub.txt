@@ -1,0 +1,1 @@
+vless://05806836-6860-49b9-fbc3-006ea72de9dc@runaway.adaspolo.shop:443?type=tcp&security=reality&fp=chrome&pbk=VyuIN3UmxKczs26txU9r3BLQBHKRaBSE4LC4FhbvdHg&sni=zula.ir&flow=xtls-rprx-vision&sid=45cfe9fb#AMIR-reality
